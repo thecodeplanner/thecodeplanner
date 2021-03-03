@@ -17,7 +17,6 @@ Leveraging my previous involvement in working directly with consumers and unders
 #### HomeStory [Demo](https://youtu.be/z2FRG7H13aY) | [Frontend Repo](https://github.com/matthewogtong/homestory-frontend) :house_with_garden: 
 <i> App made for users to store furniture items and curate ideas for different rooms in their home </i>
 
-
 ## Skills 
 
 <img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" alt="html5" align="left" width="40" height="40"/>
@@ -30,12 +29,10 @@ Leveraging my previous involvement in working directly with consumers and unders
 <img src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" alt="postgres" align="left" width="40" height="40"/>
 <img src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=4b3672" alt="bootstrap" align="left" width="40" height="40"/>
 
-
-
 <br> <br>
-## Let's Connect :mailbox:
-<a href="https://www.linkedin.com/in/melissa-mach/" target="blank"><img align="left" src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=currentColor" height="30" width="30" /></a>
 
+## Let's Connect :love_letter:
+<a href="https://www.linkedin.com/in/melissa-mach/" target="blank"><img align="left" src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=currentColor" height="30" width="30" /></a>
 <!--
 **thecodeplanner/thecodeplanner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
